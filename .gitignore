@@ -21,3 +21,12 @@ run_test.log
 # Local/OS configuration files
 .DS_Store
 Thumbs.db
+
+# Project temporary / debug dumps
+pyrefly_errors.txt
+refactor*.py
+
+# VS Code IDE configs
+.vscode/
+
+
