@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.spec
+
+# Log files
+*.log
+debug_error.log
+run_test.log
+
+# Local/OS configuration files
+.DS_Store
+Thumbs.db
